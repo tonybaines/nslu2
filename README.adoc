@@ -24,6 +24,10 @@ The Upslug2 tool for performing the flash (available in Ubuntu < = Xenial)
 
 http://webcache.googleusercontent.com/search?q=cache:ewpwoKaTGsQJ:www.nslu2-linux.org/wiki/Main/UpSlug2+&cd=5&hl=en&ct=clnk&gl=uk&client=ubuntu
 
+The image itself is in this project (NSLU2_V23R63.bin)
+
+`sudo upslug2 -i NSLU2_V23R63.bin`
+
 
 After the restore I found that I couldn't complete configuration because of an error message "Fail to get samba information"
 
