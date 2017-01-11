@@ -16,6 +16,8 @@ http://simonsys.blogspot.co.uk/2012/05/nslu2-restore.html
 
 This site was the go-to place for all things NSLU2, but no content is left now beyond the front page, Google Webcache to the rescue
 
+I connected my laptop to the NSLU2 with an ethernet cable, and configured a static IP address on the laptop of 192.168.1.42 .
+
 Getting into Upgrade Mode
 http://webcache.googleusercontent.com/search?q=cache:64HoZY2A1VYJ:www.nslu2-linux.org/wiki/HowTo/UseTheResetButtonToEnterUpgradeMode+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
 
