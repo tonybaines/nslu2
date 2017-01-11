@@ -20,13 +20,19 @@ Getting into Upgrade Mode
 http://webcache.googleusercontent.com/search?q=cache:64HoZY2A1VYJ:www.nslu2-linux.org/wiki/HowTo/UseTheResetButtonToEnterUpgradeMode+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
 
 
-The Upslug2 tool for performing the flash (available in Ubuntu <= Xenial)
+The Upslug2 tool for performing the flash (available in Ubuntu < = Xenial)
+
 http://webcache.googleusercontent.com/search?q=cache:ewpwoKaTGsQJ:www.nslu2-linux.org/wiki/Main/UpSlug2+&cd=5&hl=en&ct=clnk&gl=uk&client=ubuntu
 
 
+After the restore I found that I couldn't complete configuration because of an error message "Fail to get samba information"
+
+http://webcache.googleusercontent.com/search?q=cache:Mw5oHDAbx6gJ:www.nslu2-linux.org/wiki/HowTo/FailSambaInformation+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
+
+
+To fix it I had to reset the SysConf area and redo the firmware flash
 
 http://webcache.googleusercontent.com/search?q=cache:f_LuHcKdfv0J:www.nslu2-linux.org/wiki/HowTo/TelnetIntoRedBoot+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
 
 http://webcache.googleusercontent.com/search?q=cache:ayJ-QP6FNXYJ:www.nslu2-linux.org/wiki/HowTo/ResetSysConf+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
 
-http://webcache.googleusercontent.com/search?q=cache:Mw5oHDAbx6gJ:www.nslu2-linux.org/wiki/HowTo/EraseAll+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
