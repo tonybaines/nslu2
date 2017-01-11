@@ -1,0 +1,32 @@
+= NSLU2 (SLUG)
+
+== Background
+When I came to pass on the NSLU2 I had, it had an alternative firmware installed.  The chap I was handing it to just 
+wanted a cheap way to serve up content from a disk to his kids' devices, so reverting to the original Linksys 
+firmware made sense.  It wasn't straightforward after all the time that's gone by, Cisco/Linksys have taken down 
+their FTP servers and google caches were the only way to lookup the relevent info.
+
+This project is my record to help retrace the same path.
+
+== Links
+Where I started
+http://simonsys.blogspot.co.uk/2012/05/nslu2-restore.html
+
+== Cached pages from NSLU2-Linux
+
+This site was the go-to place for all things NSLU2, but no content is left now beyond the front page, Google Webcache to the rescue
+
+Getting into Upgrade Mode
+http://webcache.googleusercontent.com/search?q=cache:64HoZY2A1VYJ:www.nslu2-linux.org/wiki/HowTo/UseTheResetButtonToEnterUpgradeMode+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
+
+
+The Upslug2 tool for performing the flash (available in Ubuntu <= Xenial)
+http://webcache.googleusercontent.com/search?q=cache:ewpwoKaTGsQJ:www.nslu2-linux.org/wiki/Main/UpSlug2+&cd=5&hl=en&ct=clnk&gl=uk&client=ubuntu
+
+
+
+http://webcache.googleusercontent.com/search?q=cache:f_LuHcKdfv0J:www.nslu2-linux.org/wiki/HowTo/TelnetIntoRedBoot+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
+
+http://webcache.googleusercontent.com/search?q=cache:ayJ-QP6FNXYJ:www.nslu2-linux.org/wiki/HowTo/ResetSysConf+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
+
+http://webcache.googleusercontent.com/search?q=cache:Mw5oHDAbx6gJ:www.nslu2-linux.org/wiki/HowTo/EraseAll+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu
